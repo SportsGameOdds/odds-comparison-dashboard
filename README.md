@@ -9,7 +9,7 @@ Build a Next.js odds comparison dashboard using the leading odds API, [SportsGam
 
 ## Preview
 
-![Odds comparison dashboard screenshot](./public/odds-comparison-dashboard-preview.png)
+![Odds comparison dashboard screenshot](./odds-comparison-dashboard-preview.png)
 
 ## Who this is for
 
